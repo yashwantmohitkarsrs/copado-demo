@@ -4,6 +4,8 @@
         <actionName>Accept</actionName>
         <type>Default</type>
     </actionOverrides>
+    
+    
     <actionOverrides>
         <actionName>Accept</actionName>
         <formFactor>Large</formFactor>
@@ -165,6 +167,7 @@
     </nameField>
     <pluralLabel>Staff Details</pluralLabel>
     <searchLayouts/>
+    
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
